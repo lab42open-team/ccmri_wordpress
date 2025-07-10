@@ -1,2 +1,2 @@
 # ccmri_wordpress
-ccmri wordpress scripts and issues
+This repository holds the CCMRI platform issues. CCMRI has been implemented an a Wordpress platform instance.
